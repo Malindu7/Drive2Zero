@@ -1,0 +1,31 @@
+“Sri Lanka. An island full of beauty, culture, and life.
+But today, our nation is facing a growing challenge. By 2020, there were over 8.3 million registered vehicles across the country — from cars and buses to motorcycles and three-wheelers.
+This rapid motorization has created traffic congestion in cities, rising fuel demand, and worsening air pollution. The transport sector has now become one of the largest contributors to greenhouse gas emissions in Sri Lanka.
+Globally, transport accounts for nearly 23% of energy-related CO₂ emissions. If we continue on the same path, our emissions will keep rising, threatening both public health and our national goal of becoming carbon neutral by 2050.”
+“Electric Vehicles, or EVs, are one of the most promising solutions for Sri Lanka. They can reduce fuel imports, cut emissions, and improve air quality.
+But how much impact can EVs really make? And what would Sri Lanka’s future look like if more people adopted them?
+That’s where our project, Drive2Zero, comes in.
+We use data science and artificial intelligence to forecast Sri Lanka’s transport emissions — and to simulate how different levels of EV adoption could transform our future.”
+“Our system collects data from both global and local sources — including vehicle registrations, fuel use, and CO₂ emissions.
+We then build forecasting models:
+One predicts baseline emissions if Sri Lanka continues with current trends.
+Another simulates the future if more EVs are adopted.
+Finally, we present the results in an interactive dashboard. With a simple slider, policymakers, industries, or citizens can explore scenarios — like increasing EV adoption, improving fuel efficiency, or boosting renewable energy.”
+“Of course, EV adoption in Sri Lanka faces real challenges:
+High purchase costs compared to regular vehicles.
+Limited charging stations, mostly in urban areas.
+Pressure on the electricity grid if demand grows quickly.
+High battery replacement costs and limited local expertise.
+Frequent changes in government policies and taxes.
+And low public awareness about EV technology.”
+“To overcome these challenges, Sri Lanka needs a clear roadmap:
+Reduce taxes and provide subsidies to make EVs affordable.
+Expand charging infrastructure across the island, not just in cities.
+Strengthen the electricity grid with renewable energy.
+Train local technicians for EV servicing and battery care.
+Introduce more EV options — from motorcycles to buses.
+Keep policies stable and long-term.
+And raise public awareness about the benefits of EVs.”
+“With Drive2Zero, we provide a data-driven tool for Sri Lanka’s future. Policymakers can design smarter transport policies. Industries can plan EV supply and charging networks. And citizens can understand how their choices matter.
+By adopting electric vehicles and making informed decisions, Sri Lanka can reduce emissions, cut fuel dependency, and move toward a cleaner, healthier, and carbon-neutral future.
+Together, let’s drive Sri Lanka to zero emissions.

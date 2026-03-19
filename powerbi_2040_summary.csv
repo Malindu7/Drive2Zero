@@ -1,0 +1,6 @@
+Scenario,EV_Share_2040_pct,CO2_2040_Mt,Reduction_vs_BAU_pct
+Baseline (BAU),2.0,1.638,0.0
+Low EV (15%),15.0,1.476,9.9
+Medium EV (30%),30.0,1.289,21.3
+High EV (50%),50.0,1.04,36.5
+Full EV (80%),80.0,0.665,59.4

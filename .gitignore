@@ -1,0 +1,17 @@
+# --- Specific Files Requested ---
+# Documents
+docs/Drive2Zero - Made with Clipchamp.mp4
+docs/Tech Wizards 2.0.pdf
+
+# Dashboards
+dashboards/CO2 emission (1).pbix
+dashboards/New.pbix
+
+
+# --- System & Environment Files ---
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+
