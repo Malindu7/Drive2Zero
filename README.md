@@ -39,19 +39,19 @@ Sri Lanka had over **8.3 million registered vehicles** by 2020, with the transpo
 ```
 Drive2Zero/
 │
-├── 📓 Drive2Zero_Notebook.ipynb        ← Main analysis notebook (Python)
-├── 📊 Drive2Zero_CO2_Emissions.pbix    ← Power BI dashboard (emissions analysis)
-├── 📊 Drive2Zero_EV_Scenarios.pbix     ← Power BI dashboard (EV scenario simulation)
-├── 🔬 drive2zero_analysis.R            ← R script (ARIMA modelling, EDA)
+├── 📓 Drive2Zero_Final.ipynb        ← Main analysis notebook (Python)
 │
 ├── data/
 │   └── new_vehicles_registered_2008-2023.xlsx   ← Source: Department of Motor Traffic
 │
 ├── docs/
-│   ├── Tech_Wizards_2.0_Proposal.pdf   ← Project proposal
-│   ├── Script_2.txt                    ← Video narration script
-│   └── Drive2Zero_Presentation.mp4     ← Final video
+│   ├── Drive2Zero_Technical_Document.docx   ← Explanation
+│   └── Script_2.txt                    ← Video narration script
 │
+├── dashboards/
+│   ├── new2026.pbix   ← new dashboard
+│ 
+|
 └── README.md
 ```
 
